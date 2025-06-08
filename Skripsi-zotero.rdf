@@ -1,0 +1,1178 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/"
+ xmlns:vcard="http://nwalsh.com/rdf/vCard#">
+    <bib:Article rdf:about="#item_3">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zulhakim</foaf:surname>
+                        <foaf:givenName>Zaidan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kurniawan</foaf:surname>
+                        <foaf:givenName>Ari</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_1"/>
+        <dc:title>Implementasi Continuous Integration Dan Continuous Deployment Pada Pengembangan Aplikasi Website Menggunakan Docker Dan Github Actions</dc:title>
+        <z:language>id</z:language>
+        <z:libraryCatalog>Zotero</z:libraryCatalog>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_1">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://www.scirp.org/journal/doi.aspx?DOI=10.4236/jgis.2012.43031">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2151-1950,%202151-1969"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Singh</foaf:surname>
+                        <foaf:givenName>Puyam S.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chutia</foaf:surname>
+                        <foaf:givenName>Dibyajyoti</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sudhakar</foaf:surname>
+                        <foaf:givenName>Singuluri</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_42"/>
+        <link:link rdf:resource="#item_2"/>
+        <dc:title>Development of a Web Based GIS Application for Spatial Natural Resources Information System Using Effective Open Source Software and Standards</dc:title>
+        <dcterms:abstract>There is growing needs for web based GIS for easy and fast dissemination, sharing, displaying and processing of spatial information which in turns helping in decision making for various natural resources based applications. In order to make a cost effective implementation, operation and maintenance of spatial information over the web, a cheaper yet feature rich alternative to commercial software is required which can be fulfilled by Open Source GIS software. This paper conveys an efficient approach to customize and integrate an open source web GIS system based on Mapserver as a web GIS server and PostgreSQL/PostGIS as an object oriented relational database management system (ORDBMS) for effective dissemination, sharing and management of spatial information over the internet. An open source web application tool built on top of MapScript using the PHP programming language has been used as for development of interactive user interface. The configurable Web Mapping Client Components (CWC2) tags have been added to HTML template pages in order to deploy the mapping contents to a web application. It is observed that the present system developed using open source software enables user to view, update, customized retrieval, query and analysis of natural resources information for specific needs.</dcterms:abstract>
+        <dc:date>2012</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.scirp.org/journal/doi.aspx?DOI=10.4236/jgis.2012.43031</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-05-12 08:55:50</dcterms:dateSubmitted>
+        <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+        <bib:pages>261-266</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2151-1950,%202151-1969">
+        <prism:volume>04</prism:volume>
+        <dc:title>Journal of Geographic Information System</dc:title>
+        <dc:identifier>DOI 10.4236/jgis.2012.43031</dc:identifier>
+        <prism:number>03</prism:number>
+        <dcterms:alternative>JGIS</dcterms:alternative>
+        <dc:identifier>ISSN 2151-1950, 2151-1969</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_42">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Afrizal_2020_IOP_Conf._Ser.__Mater._Sci._Eng._879_012059</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_2">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_7">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ramdani</foaf:surname>
+                        <foaf:givenName>Hanif Ali</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_5"/>
+        <dc:title>KONTAINERISASI APLIKASI WEB SISTEM PEMANTAUAN DAN PENGENDALIAN KUALITAS AIR MENGGUNAKAN DOCKER</dc:title>
+        <dcterms:abstract>HANIF ALI RAMDANI. Containerization of Water Quality Monitoring and Controlling System Web Application Using Docker. Supervised by ENDANG PURNAMA GIRI and HERU SUKOCO.</dcterms:abstract>
+        <z:language>id</z:language>
+        <z:libraryCatalog>Zotero</z:libraryCatalog>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_5">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_9">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Naufal</foaf:surname>
+                        <foaf:givenName>Sahlan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_11"/>
+        <link:link rdf:resource="#item_8"/>
+        <dc:title>MODUL BACKEND WEBGIS RIWAYAT KERUSAKAN JALAN PROVINSI JAWA BARAT</dc:title>
+        <dcterms:abstract>SAHLAN NAUFAL. Backend Module for WebGIS History of Road Damage In West Java Province. Supervised by AHMAD RIDHA and HARI AGUNG ADRIANTO.</dcterms:abstract>
+        <z:language>id</z:language>
+        <z:libraryCatalog>Zotero</z:libraryCatalog>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_11">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>fulltext_G6401201005_7e1f3e03d3e04005b8477665ba752d89 (1)</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_8">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://abecindonesia.org/proceeding/index.php/abec/article/view/191">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2339-2053"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Alpery</foaf:surname>
+                        <foaf:givenName>Andrian</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ridha</foaf:surname>
+                        <foaf:givenName>Muhammad Arif Fadhly</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_14"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Continuous Delivery</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Continuous Deployment</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Continuous Integration</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Docker</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Jenkins</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Implementasi CI/CD Dalam Pengembangan Aplikasi Web Menggunakan Docker dan Jenkins</dc:title>
+        <dcterms:abstract>In the current software development process, the build, testing, and deployment processes are generally carried out conventionally. The software build and testing process is carried out separately by the development and testing teams. After the build and testing process is complete, then the software is handed over to the operational team for deployment. This takes longer because the process is done manually repeatedly. CI/CD is a concept that is implemented as a process that can help application developers to combine the new code with the main, then make it easier to do code testing at each stage, and end with the deployment process. The purpose of this research is to implement and analyze the quality, time required, and process automation in the web application development process starting from build, testing, and deploying with the CI/CD method using Docker and Jenkins. Based on the tests carried out on web application development using the CodeIgniter framework in 10 deployments, they are as follows: the average time required by jenkins to carry out the jenkins pipeline deployment process is 1 minute 58 seconds, with a success rate of 90%, 78 bugs, and during testing only once a failure occurred in the deployment process.</dcterms:abstract>
+        <dc:date>2021-08-25</dc:date>
+        <z:language>id</z:language>
+        <z:libraryCatalog>abecindonesia.org</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://abecindonesia.org/proceeding/index.php/abec/article/view/191</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-05-12 09:00:18</dcterms:dateSubmitted>
+        <dc:rights>Copyright (c) 2021</dc:rights>
+        <bib:pages>287-296</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2339-2053">
+        <prism:volume>9</prism:volume>
+        <dc:title>ABEC Indonesia</dc:title>
+        <dc:identifier>ISSN 2339-2053</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_14">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://abecindonesia.org/proceeding/index.php/abec/article/download/191/175</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-05-12 09:00:19</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_16">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ulya</foaf:surname>
+                        <foaf:givenName>Nadiah Sahidah</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_15"/>
+        <dc:title>PENGEMBANGAN MODUL FRONT END WEBGIS VISUALISASI HISTORY KERUSAKAN JALAN PROVINSI JAWA BARAT</dc:title>
+        <dcterms:abstract>NADIAH SAHIDAH ULYA. Development of Front End Module Webgis Visualization Of Road Damage History Of West Java Province. Supervised by HARI AGUNG ADRIANTO and HENDRA RAHMAWAN.</dcterms:abstract>
+        <z:language>id</z:language>
+        <z:libraryCatalog>Zotero</z:libraryCatalog>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_15">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://repository.ipb.ac.id/bitstream/handle/123456789/153628/cover_G6401201005_c9782e30e615478895c8cf6442f4f3ef.pdf?sequence=1&amp;isAllowed=y</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-05-12 09:01:19</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://repository.ipb.ac.id/handle/123456789/153628">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dcterms:alternative>Development of Front End Module Webgis  Visualization Of Road Damage History Of West Java Province</dcterms:alternative>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ulya</foaf:surname>
+                        <foaf:givenName>Nadiah Sahidah</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_18"/>
+        <dc:title>Pengembangan Modul Front End Webgis Visualisasi History Kerusakan Jalan Provinsi Jawa Barat</dc:title>
+        <dcterms:abstract>Kapasitas dan kualitas jalan berkaitan erat dengan mobilitas penduduk dan penyediaan barang serta jasa untuk memenuhi kebutuhan masyarakat. WebGIS telah menjadi alat penting dalam pemantauan kondisi jalan. Sistem ini memungkinkan pemerintah dalam melakukan perencanaan, pengecekan, maupun pemrograman kondisi jalan secara berkala dan berkelanjutan. Sobat Jabar merupakan webgis yang menampilkan informasi data peta kondisi jalan secara visual untuk memudahkan pengguna dalam analisis data dan pengambilan keputusan. Penelitian sebelumnya terbatas pada visualisasi kondisi jalan dengan foto dan video. Penelitian ini mengembangkan fitur history kerusakan jalan Provinsi Jawa Barat menggunakan metode prototyping dengan lima tahapan yaitu communication, quick plan, modeling quick design, construction of prototype, deployment, delivery and feedback. Pengembangan dilakukan menggunakan bahasa pemrograman Javascript dengan library ReactJs dan LeafletJs. Hasil pengujian sistem dengan metode blackbox testing menunjukkan keberhasilan dalam menampilkan informasi kerusakan jalan secara visual berupa foto dan video, melaporkan kondisi jalan rusak, memberikan komentar, serta membaca dan mengedit history kerusakan pada tabel admin untuk melakukan update penanganan yang sudah dilakukan.</dcterms:abstract>
+        <dc:date>2024</dc:date>
+        <z:language>id</z:language>
+        <z:libraryCatalog>repository.ipb.ac.id</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://repository.ipb.ac.id/handle/123456789/153628</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-05-12 09:01:24</dcterms:dateSubmitted>
+        <dc:description>Accepted: 2024-07-14T23:50:01Z
+Publisher: IPB University</dc:description>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_18">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://repository.ipb.ac.id/bitstream/123456789/153628/1/cover_G6401201005_c9782e30e615478895c8cf6442f4f3ef.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-05-12 09:01:24</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://journal.ipm2kpe.or.id/index.php/INTECOM/article/view/10961">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2614-1574,%202621-3249"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Apriliyanto</foaf:surname>
+                        <foaf:givenName>Firmansyah Putra</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Prihati</foaf:surname>
+                        <foaf:givenName>Yani</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bakti</foaf:surname>
+                        <foaf:givenName>Cristeddy Asa</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_21"/>
+        <dc:title>Implementasi CI/CD Menggunakan Github Actions Untuk Pengembangan Web Landing Page UMKM XYZ</dc:title>
+        <dcterms:abstract>The effective application of information technology is crucial for SMEs to enhance their competitiveness in the digital era. SME XYZ faces challenges in the efficient and reliable development and management of their web landing page. This study aims to implement the Continuous Integration/Continuous Deployment (CI/CD) method using GitHub Actions in the development of SME XYZ's web landing page. The method involves setting up a CI/CD pipeline that automatically integrates, tests, and deploys code changes. The findings of the study indicate that the implementation of GitHub Actions successfully improves the efficiency of the development process, reduces testing and deployment time, and minimizes errors in the code. The conclusion of this study is that the application of CI/CD with GitHub Actions significantly contributes to the improvement of the quality and speed of web development for SMEs, allowing the development team to focus more on enhancing features and services without being burdened by manual integration and deployment issues.</dcterms:abstract>
+        <dc:date>2024-07-13</dc:date>
+        <z:language>id</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://journal.ipm2kpe.or.id/index.php/INTECOM/article/view/10961</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-05-19 13:50:37</dcterms:dateSubmitted>
+        <dc:rights>http://creativecommons.org/licenses/by-nc/4.0</dc:rights>
+        <bib:pages>1239-1249</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2614-1574,%202621-3249">
+        <prism:volume>7</prism:volume>
+        <dc:title>INTECOMS: Journal of Information Technology and Computer Science</dc:title>
+        <dc:identifier>DOI 10.31539/intecoms.v7i4.10961</dc:identifier>
+        <prism:number>4</prism:number>
+        <dcterms:alternative>INTECOMS</dcterms:alternative>
+        <dc:identifier>ISSN 2614-1574, 2621-3249</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_21">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://doi.org/10.1088/1757-899X/879/1/012059">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>879</prism:volume>
+                <dc:title>IOP Conference Series: Materials Science and Engineering</dc:title>
+                <prism:number>1</prism:number>
+                <dcterms:alternative>IOP Conference Series: Materials Science and Engineering</dcterms:alternative>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Afrizal</foaf:surname>
+                        <foaf:givenName>Y.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_43"/>
+        <dc:title>Analysis of road and bridge conditions by utilizing WEBGIS technology</dc:title>
+        <dc:date>2020</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://doi.org/10.1088/1757-899X/879/1/012059</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>012059</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_43">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://doi.org/10.38124/IJISRT24OCT014">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>9</prism:volume>
+                <dc:title>International Journal of Innovative Science and Research Technology</dc:title>
+                <prism:number>10</prism:number>
+                <dcterms:alternative>International Journal of Innovative Science and Research Technology</dcterms:alternative>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gujar</foaf:surname>
+                        <foaf:givenName>S. and Patil, S.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_44"/>
+        <dc:title>Continuous integration and continuous deployment (CI/CD) optimization</dc:title>
+        <dc:date>2024</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://doi.org/10.38124/IJISRT24OCT014</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_44">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Thesis rdf:about="https://www.theseus.fi/handle/10024/891923">
+        <z:itemType>thesis</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tran</foaf:surname>
+                        <foaf:givenName>A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_48"/>
+        <dc:title>Deploying Spring Boot using GitHub Actions and Docker on AWS</dc:title>
+        <dc:date>2025</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.theseus.fi/handle/10024/891923</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Thesis>
+    <z:Attachment rdf:about="#item_48">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://trilogi.ac.id/journal/ks/index.php/JISA/article/view/1751">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2614-8404,%202776-3234"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Istifarulah</foaf:surname>
+                        <foaf:givenName>Mochamad Hanif Rifa'i</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tiaharyadini</foaf:surname>
+                        <foaf:givenName>Rizka</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_38"/>
+        <dc:title>DevOps, Continuous Integration and Continuous Deployment Methods for Software Deployment Automation</dc:title>
+        <dcterms:abstract>In the fast-paced landscape of software development, the need for efficient, reliable, and rapid deployment processes has become paramount. Manual deployment processes often lead to inefficiencies, errors, and delays, impacting the overall agility and reliability of software delivery. DevOps, as a cultural and collaborative approach, plays a central role in orchestrating the synergy between development and operations teams, fostering a shared responsibility for the entire software delivery lifecycle. Continuous Integration is a fundamental DevOps practice that involves regularly integrating code changes into a shared repository, triggering automated builds and tests. Continuous Deployment complements Continuous Integration by automating the release and deployment of validated code changes into production environments. The purpose of this research is to create a software deployment automation system to make it easier and reliable for organizations to deploy software. In conclusion, the results of this research show that by adopting DevOps, Continuous Integration, and Continuous Deployment, organizations can achieve enhanced collaboration, shortened release cycles, increased deployment frequency, consistent deployment, and improved overall software quality.</dcterms:abstract>
+        <dc:date>2023-12-27</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://trilogi.ac.id/journal/ks/index.php/JISA/article/view/1751</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-06-08 15:02:16</dcterms:dateSubmitted>
+        <dc:rights>https://creativecommons.org/licenses/by-sa/4.0</dc:rights>
+        <bib:pages>116-123</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2614-8404,%202776-3234">
+        <prism:volume>6</prism:volume>
+        <dc:title>JISA(Jurnal Informatika dan Sains)</dc:title>
+        <dc:identifier>DOI 10.31326/jisa.v6i2.1751</dc:identifier>
+        <prism:number>2</prism:number>
+        <dcterms:alternative>JISA</dcterms:alternative>
+        <dc:identifier>ISSN 2614-8404, 2776-3234</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_38">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_41">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nguyen</foaf:surname>
+                        <foaf:givenName>Trung Hoang</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_40"/>
+        <dc:title>A Comprehensive CI/CD Pipeline and Google Cloud Platform Deployment for Web Application</dc:title>
+        <dcterms:abstract>In conclusion, the project achieved reusability through modular design, making it adaptable for future projects. It acts as a foundation for future CI/CD work and potential exploration in DevOps and Cloud Computing.</dcterms:abstract>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Zotero</z:libraryCatalog>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_40">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://ejurnal.umri.ac.id/index.php/JIK/article/view/7236">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2808-9162,%202089-3353"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wayan</foaf:surname>
+                        <foaf:givenName>Deden Setyawan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>I Nyoman</foaf:surname>
+                        <foaf:givenName>Piarsa</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Buana</foaf:surname>
+                        <foaf:givenName>Putu Wira</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_46"/>
+        <dc:title>Integrasi Infrastructure as Code dengan Continuous Integration/Continuous Deployment di Google Cloud Platform</dc:title>
+        <dcterms:abstract>The integration of IaC (Infrastructure as Code) with CI/CD (Continuous Integration/Continuous Deployment) helps in producing software that has high quality and productivity. Tests carried out in the form of comparing manual and automatic deployment of infrastructure and assessing the effectiveness and efficiency of the deployment method. Testing to ensure that the infrastructure created is running properly is to do a simple application deployment. The research starts from creating an infrastructure design, configuring IaC Terraform, creating CI/CD scripts, deploying infrastructure manually and automatically, configuring applications along with CI/CD, and deploying applications. The average time required for the manual method is 13 minutes 34 seconds, while the average time required for the automatic method is 14 minutes 5 seconds. The effectiveness value obtained shows that both methods are successful in deploying infrastructure, while for the efficiency value, manual and automatic methods both have their own advantages and disadvantages. The Go - Gin application that was deployed took an average of 3 minutes 7 seconds, while the PHP - Laravel application took an average of 3 minutes 8 seconds. Applications that are deployed on the same infrastructure show a difference in time that is not much different and the difference in application configuration obtained is in the Dockerfile and the Kubernetes object file used.</dcterms:abstract>
+        <dc:date>2024-08-06</dc:date>
+        <z:language>id</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ejurnal.umri.ac.id/index.php/JIK/article/view/7236</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-06-08 15:09:15</dcterms:dateSubmitted>
+        <dc:rights>https://creativecommons.org/licenses/by-sa/4.0</dc:rights>
+        <bib:pages>346-354</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2808-9162,%202089-3353">
+        <prism:volume>14</prism:volume>
+        <dc:title>JURNAL FASILKOM</dc:title>
+        <dc:identifier>DOI 10.37859/jf.v14i2.7236</dc:identifier>
+        <prism:number>2</prism:number>
+        <dcterms:alternative>JF</dcterms:alternative>
+        <dc:identifier>ISSN 2808-9162, 2089-3353</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_46">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://ejournal.itn.ac.id/index.php/jati/article/view/12624">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2598-828X"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Muslim Sinaga</foaf:surname>
+                        <foaf:givenName>Rizal</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Putra Paskah Halawa</foaf:surname>
+                        <foaf:givenName>Sovantri</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kiswanto</foaf:surname>
+                        <foaf:givenName>Dedy</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_49"/>
+        <dc:title>IMPLEMENTASI CI/CD MENGGUNAKAN JENKINS PADA APLIKASI DI LINGKUNGAN PENGEMBANGAN FEDORA WORKSTATION 40</dc:title>
+        <dcterms:abstract>Dalam pengembangan perangkat lunak, otomatisasi proses build, pengujian, dan deployment penting untuk meningkatkan efisiensi dan kualitas aplikasi. Continuous Integration (CI) dan Continuous Delivery (CD) adalah pendekatan populer untuk tujuan ini, dengan Jenkins sebagai alat utama. Penelitian ini mengimplementasikan CI/CD dengan Jenkins pada Fedora Workstation 40 untuk aplikasi web berbasis PHP. Metode eksperimen meliputi instalasi Fedora di VirtualBox, konfigurasi Jenkins dengan plugin seperti Pipeline, MySQL, dan GitHub, serta pembuatan aplikasi to-do list. Pengelolaan kode dilakukan dengan Git, di mana perubahan dilakukan secara lokal di Fedora menggunakan git add, git commit, dan git push untuk mengirim perubahan ke repositori GitHub. Setelah itu, Jenkins secara otomatis menjalankan pipeline untuk build, pengujian, dan deployment. Hasil penelitian menunjukkan waktu build rata-rata 3 detik, pengujian 5 detik, dan deployment 3 detik, dengan keberhasilan 100% pada build dan deploy, serta 95% pada pengujian. Pipeline yang diterapkan juga mendeteksi bug lebih awal, meningkatkan kualitas aplikasi. Penelitian ini memberikan kontribusi dalam penerapan CI/CD dengan Jenkins pada Fedora Workstation 40, mendukung pengembangan aplikasi PHP yang efisien dan berkelanjutan.</dcterms:abstract>
+        <dc:date>2024-12-30</dc:date>
+        <z:language>id</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ejournal.itn.ac.id/index.php/jati/article/view/12624</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-06-08 15:10:50</dcterms:dateSubmitted>
+        <dc:rights>https://creativecommons.org/licenses/by-sa/4.0</dc:rights>
+        <bib:pages>1202-1209</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2598-828X">
+        <prism:volume>9</prism:volume>
+        <dc:title>JATI (Jurnal Mahasiswa Teknik Informatika)</dc:title>
+        <dc:identifier>DOI 10.36040/jati.v9i1.12624</dc:identifier>
+        <prism:number>1</prism:number>
+        <dcterms:alternative>jati</dcterms:alternative>
+        <dc:identifier>ISSN 2598-828X</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_49">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://ejournal.ikado.ac.id/index.php/teknika/article/view/400">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2549-8045,%202549-8037"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Danur Wijayanto</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Arizona Firdonsyah</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Faisal Dharma Adhinata</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_51"/>
+        <dc:title>Implementasi Continous Integration/Continous Delivery Menggunakan Process Manager 2 (Studi Kasus: SIAKAD Akademi Keperawatan Bina Insan)</dc:title>
+        <dcterms:abstract>Software development is increasingly diverse and complex, required flexibility and adaptation to the software development process. The concept of DevOps arises from problems that occur between developers and operations. CI/CD can support DevOps because it can speed up the process of software integration and delivery to the users. For CI/CD implementation is needed tools such as git for source code control, and jenkins to help deployment process. The research conducted by the author uses Process Manager 2 (PM2) in the implementation of CI/CD. The research was conducted on the Sistem Informasi Akademik (SIAKAD) Akademi Keperawatan Bina Insan. Hoped this research will contribute to broaden the knowledge of CI/CD implementation. The results show that the CI/CD implementation using the GitHub Repository, Jenkins, and PM2 is successful and running well. PM2 performs better than Docker in terms of build time and RAM usage. PM2 requires 185 seconds for deployment, 46% faster than Docker and PM2's RAM usage is 1.9 GB, which 45% lower than Docker.</dcterms:abstract>
+        <dc:date>2021-10-28</dc:date>
+        <z:language>id</z:language>
+        <z:shortTitle>Implementasi Continous Integration/Continous Delivery Menggunakan Process Manager 2 (Studi Kasus</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ejournal.ikado.ac.id/index.php/teknika/article/view/400</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-06-08 15:11:22</dcterms:dateSubmitted>
+        <dc:rights>https://creativecommons.org/licenses/by-sa/4.0</dc:rights>
+        <bib:pages>181-188</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2549-8045,%202549-8037">
+        <prism:volume>10</prism:volume>
+        <dc:title>Teknika</dc:title>
+        <dc:identifier>DOI 10.34148/teknika.v10i3.400</dc:identifier>
+        <prism:number>3</prism:number>
+        <dcterms:alternative>teknika</dcterms:alternative>
+        <dc:identifier>ISSN 2549-8045, 2549-8037</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_51">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://ejournal.seaninstitute.or.id/index.php/InfoSains/article/view/4233">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2797-7889,%202089-3329"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nurhayati</foaf:surname>
+                        <foaf:givenName>Nurhayati</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_53"/>
+        <dc:title>Implementation of Continuous Integration and Continuous Deployment (CI/CD) to Speed up the Automation Process of Software Delivery In the Production Process Using Node.Js, Docker, and React.Js</dc:title>
+        <dcterms:abstract>With the increasing amount of software that has been developed by developers, this encourages experts in the software field to release products with quality and updates on a regular and scheduled basis. In the software development process, teamwork is crucial, where a developer must work together with his colleagues. Of the various software development processes that occur in the IT Cyber Community, challenges often occur at the code integration stage. This challenge arises when a lot of code from different developers has to be combined. Not only that, the time required is very fast to get new features. Continuous Integration/Continuous Delivery (CI/CD) can be a solution to overcome this problem. Through the implementation of CI/CD, the software integration and delivery process becomes more automated, allowing developers to integrate code more regularly and minimizing the risk of problems that may arise due to human error and also delays in deploying a new feature. The automation process in React.js and Node.js software development using Docker and Jankins was successfully carried out by implementing Continuous Integration/Continuous Deployment in testing, code that was integrated more regularly and software delivery was faster. In the process, the time required to deploy a software can be minimized, which previously took a long time, can now be shortened, which previously took 8 minutes 48 seconds, now only takes 2 minutes 56 seconds.</dcterms:abstract>
+        <dc:date>2024-04-10</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ejournal.seaninstitute.or.id/index.php/InfoSains/article/view/4233</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-06-08 15:11:44</dcterms:dateSubmitted>
+        <bib:pages>15-28</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2797-7889,%202089-3329">
+        <prism:volume>14</prism:volume>
+        <dc:title>Jurnal Info Sains : Informatika dan Sains</dc:title>
+        <dc:identifier>DOI 10.54209/infosains.v14i02.4233</dc:identifier>
+        <prism:number>02</prism:number>
+        <dcterms:alternative>Info Sains</dcterms:alternative>
+        <dc:identifier>ISSN 2797-7889, 2089-3329</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_53">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://54.251.190.23/index.php/JITCE/article/view/198">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2599-1663"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Alanda</foaf:surname>
+                        <foaf:givenName>Alde</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mooduto</foaf:surname>
+                        <foaf:givenName>Hanriyawan Adnan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hadelina</foaf:surname>
+                        <foaf:givenName>Rizka</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_55"/>
+        <dc:title>Continuous Integration and Continuous Deployment (CI/CD) for Web Applications on Cloud Infrastructures</dc:title>
+        <dcterms:abstract>At this time, the application development process has experienced much development in terms of tools and the programming language used. The application development process is required to be carried out in a fast process using various existing tools. The application development and delivery process can be done quickly using Continuous Integration (CI) and Continuous Delivery (CD). This study uses the CI/CD technique to develop real-time applications using various programming languages implemented on a cloud infrastructure using the AWS codepipeline, which focuses on automatic deployment. Application source code is stored on different
+media using GitHub and Amazon S3. The source code will be tested for automatic deployment using the AWS code pipeline. The results of this study show that all programming languages can be appropriately deployed with an average time of 60 seconds</dcterms:abstract>
+        <dc:date>2022-09-30</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://54.251.190.23/index.php/JITCE/article/view/198</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-06-08 15:12:41</dcterms:dateSubmitted>
+        <bib:pages>50-55</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2599-1663">
+        <prism:volume>6</prism:volume>
+        <dc:title>JITCE (Journal of Information Technology and Computer Engineering)</dc:title>
+        <dc:identifier>DOI 10.25077/jitce.6.02.50-55.2022</dc:identifier>
+        <prism:number>02</prism:number>
+        <dcterms:alternative>j.inf.tech.comp.eng</dcterms:alternative>
+        <dc:identifier>ISSN 2599-1663</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_55">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="http://arxiv.org/abs/2404.12074">
+        <z:itemType>preprint</z:itemType>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>arXiv</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Annanias</foaf:surname>
+                        <foaf:givenName>Yves</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wiegreffe</foaf:surname>
+                        <foaf:givenName>Daniel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_59"/>
+        <link:link rdf:resource="#item_57"/>
+        <dc:subject>
+            <z:AutomaticTag>
+                <rdf:value>Computer Science - Human-Computer Interaction</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>A Flexible Architecture for Web-based GIS Applications using Docker and Graph Databases</dc:title>
+        <dcterms:abstract>Regional planning processes and associated redevelopment projects can be complex due to the vast amount of diverse data involved. However, all of this data shares a common geographical reference, especially in the renaturation of former open-cast mining areas. To ensure safety, it is crucial to maintain a comprehensive overview of the interrelated data and draw accurate conclusions. This requires special tools and can be a very time-consuming process. A geographical information system (GIS) is well-suited for this purpose, but even a GIS has limitations when dealing with multiple data types and sources. Additional tools are often necessary to process and view all the data, which can complicate the planning process. Our paper describes a system architecture that addresses the aforementioned issues and provides a simple, yet flexible tool for these activities. The architecture is based on microservices using Docker and is divided into a backend and a frontend. The backend simplifies and generalizes the integration of different data types, while a graph database is used to link relevant data and reveal potential new relationships between them. Finally, a modern web frontend displays the data and relationships.</dcterms:abstract>
+        <dc:date>2024-04-18</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>arXiv.org</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/2404.12074</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-06-08 15:13:52</dcterms:dateSubmitted>
+        <dc:description>arXiv:2404.12074 [cs]</dc:description>
+        <dc:identifier>DOI 10.48550/arXiv.2404.12074</dc:identifier>
+        <prism:number>arXiv:2404.12074</prism:number>
+    </rdf:Description>
+    <bib:Memo rdf:about="#item_59">
+       <rdf:value>Comment: 11 pages, 4 figures</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_57">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_61">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+               <prism:volume>6</prism:volume><prism:number>4</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Amrullah</foaf:surname>
+                        <foaf:givenName>Muhammad Syauqi Amiq</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Marthasari</foaf:surname>
+                        <foaf:givenName>Gita Indah</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_60"/>
+        <dc:title>Otomatisasi Proses Deployment dengan Metode CI/CD Menggunakan Jenkins dan Docker Pada Web Service i-Lab</dc:title>
+        <dcterms:abstract>The deployment process in application development often faces various obstacles, especially if done manually, which can cause errors and take a long time. This study aims to automate the deployment process on the i-Lab web service at the Informatics Laboratory of the University of Muhammadiyah Malang using the Continuous Integration/Continuous Deployment (CI/CD) method through the Jenkins and Docker tools. The CI/CD method was chosen because of its ability to integrate and implement applications automatically, reduce manual intervention, and improve deployment efficiency and quality. In this study, Jenkins is used as the main tool for CI/CD and Docker for containerization, to ensure a consistent and efficient environment. This implementation aims to overcome the problem of manual deployment that often causes errors, and allows developers to focus more on code quality. Testing was conducted to measure the duration and quality of deployment automation designed using Time-based Metrics and Qualitybased Metrics. There is a difference in time in the deployment process but not much different. The results of the quality test show a Test Pass Rate level with a value of 100%. Conclusion: The results of the study show that the quality of CI/CD created runs well in the implementation of the i-Lab web service owned by the Informatics Laboratory of the University of Muhammadiyah Malang, there is a difference in the duration of the CI/CD process but it is not much different.</dcterms:abstract>
+        <z:language>id</z:language>
+        <z:libraryCatalog>Zotero</z:libraryCatalog>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_60">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.ijsr.net/archive/v12i6/SR24716120535.pdf">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:23197064"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jani</foaf:surname>
+                        <foaf:givenName>Yash</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_62"/>
+        <dc:title>Implementing Continuous Integration and Continuous Deployment (CI/CD) in Modern Software Development</dc:title>
+        <dcterms:abstract>Continuous Integration (CI) and Continuous Deployment (CD) are essential practices in modern software development, enhancing software delivery's efficiency, reliability, and quality. This paper explores the principles, benefits, and implementation strategies of CI/CD, supported by real-world examples and case studies [1]. We delve into the tools and technologies that facilitate CI/CD, the challenges encountered during implementation, and best practices to mitigate these challenges. The paper concludes with future trends and the evolving landscape of CI/CD in software development [2].</dcterms:abstract>
+        <dc:date>2023-6-5</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.ijsr.net/archive/v12i6/SR24716120535.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-06-08 15:15:12</dcterms:dateSubmitted>
+        <bib:pages>2984-2987</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:23197064">
+        <prism:volume>12</prism:volume>
+        <dc:title>International Journal of Science and Research (IJSR)</dc:title>
+        <dc:identifier>DOI 10.21275/SR24716120535</dc:identifier>
+        <prism:number>6</prism:number>
+        <dcterms:alternative>IJSR</dcterms:alternative>
+        <dc:identifier>ISSN 23197064</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_62">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://jurnal.amikom.ac.id/index.php/joism/article/view/887">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2715-3088"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jaeni</foaf:surname>
+                        <foaf:givenName>Jaeni</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>S.</foaf:surname>
+                        <foaf:givenName>Nicko Aji</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Laksito</foaf:surname>
+                        <foaf:givenName>Arif Dwi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_64"/>
+        <dc:title>IMPLEMENTASI CONTINUOUS INTEGRATION/CONTINUOUS DELIVERY (CI/CD) PADA PERFORMANCE TESTING DEVOPS</dc:title>
+        <dcterms:abstract>The traditional development process used to be a repetitive cycle that consisted of developing, testing and deploying. Traditional development often raises problems such as dependency between the development and operation teams. This is because the operational team must wait for the developer to complete the testing before releasing the application. After the testing process is complete, conflicts are often found due to different development environments, which slows down the release process. These problems can cause delays in delivering the release of applications to clients. This delay disappoints the client and harms our company. Continuous Integration/Continuous Delivery (CI/CD) methods can be used as a solution to solve these problems. CI/CD can be a bridge between the development and the operational team.</dcterms:abstract>
+        <dc:date>2022-08-30</dc:date>
+        <z:language>id</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://jurnal.amikom.ac.id/index.php/joism/article/view/887</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-06-08 15:15:37</dcterms:dateSubmitted>
+        <dc:rights>https://creativecommons.org/licenses/by/4.0</dc:rights>
+        <bib:pages>62-66</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2715-3088">
+        <prism:volume>4</prism:volume>
+        <dc:title>Journal of Information System Management (JOISM)</dc:title>
+        <dc:identifier>DOI 10.24076/joism.2022v4i1.887</dc:identifier>
+        <prism:number>1</prism:number>
+        <dcterms:alternative>JOISM</dcterms:alternative>
+        <dc:identifier>ISSN 2715-3088</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_64">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_67">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hafidz</foaf:surname>
+                        <foaf:givenName>Muhammad Ridho</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_66"/>
+        <dc:title>PENERAPAN CONTINUOUS INTEGRATION/CONTINUOUS DEPLOYMENT (CI/CD) DALAM PENGEMBANGAN WEB APLIKASI DI LINGKUNGAN KUBERNETES BERBASIS RANCHER KUBERNETES ENGINE</dc:title>
+        <z:language>id</z:language>
+        <z:libraryCatalog>Zotero</z:libraryCatalog>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_66">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="urn:isbn:979-8-3315-4082-1">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:identifier>ISBN 979-8-3315-4082-1</dc:identifier>
+                <dc:title>2024 IEEE Silchar Subsection Conference (SILCON 2024)</dc:title>
+                <dc:identifier>DOI 10.1109/SILCON63976.2024.10910699</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Agartala, India</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>IEEE</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Saxena</foaf:surname>
+                        <foaf:givenName>Adarsh</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Singh</foaf:surname>
+                        <foaf:givenName>Sudhakar</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Prakash</foaf:surname>
+                        <foaf:givenName>Shiv</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yang</foaf:surname>
+                        <foaf:givenName>Tiansheng</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rathore</foaf:surname>
+                        <foaf:givenName>Rajkumar Singh</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_68"/>
+        <dc:title>DevOps Automation Pipeline Deployment with IaC (Infrastructure as Code)</dc:title>
+        <dcterms:abstract>DevOps pipeline is a set of automated tasks or processes or jobs that has tasks assigned to execute automatically that allow the Development team and Operations team to collaborate for building and deployment of the software or services. DevOps as a culture includes better collaboration between different teams within an organization and the removal of silos between them. This paper aims to streamline the current software development and deployment process that is being followed in most of today’s generation DevOps deployment as Continuous Integration and Continuous Delivery (CI/CD) pipelines. Centered to the level of software development life cycle (SDLC), it also describes the current ambiguous definition to clarify the implementation of DevOps in practice along a sample CI/CD pipeline deployment. The further objective of the paper is to demonstrate the implementation strategy of DevOps Infrastructure as Code (IaC) and Pipeline as a code and the removal of ambiguity in the definition of DevOps Infrastructure as a Code methodology.</dcterms:abstract>
+        <dc:date>2024-11-15</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ieeexplore.ieee.org/document/10910699/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-06-08 16:43:29</dcterms:dateSubmitted>
+        <dc:rights>https://doi.org/10.15223/policy-029</dc:rights>
+        <bib:pages>1-6</bib:pages>
+        <bib:presentedAt>
+            <bib:Conference>
+                <dc:title>2024 IEEE Silchar Subsection Conference (SILCON)</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_68">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="urn:isbn:978-989-758-718-4">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:identifier>ISBN 978-989-758-718-4</dc:identifier>
+                <dc:title>Proceedings of the 20th International Conference on Web Information Systems and Technologies</dc:title>
+                <dc:identifier>DOI 10.5220/0013018500003825</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Porto, Portugal</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>SCITEPRESS - Science and Technology Publications</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Saleh</foaf:surname>
+                        <foaf:givenName>Sabbir</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Madhavji</foaf:surname>
+                        <foaf:givenName>Nazim</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Steinbacher</foaf:surname>
+                        <foaf:givenName>John</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_70"/>
+        <dc:title>A Systematic Literature Review on Continuous Integration and Deployment (CI/CD) for Secure Cloud Computing:</dc:title>
+        <dcterms:abstract>As cloud environments become widespread, cybersecurity has emerged as a top priority across areas such as networks, communication, data privacy, response times, and availability. Various sectors, including industries, healthcare, and government, have recently faced cyberattacks targeting their computing systems. Ensuring secure app deployment in cloud environments requires substantial effort. With the growing interest in cloud security, conducting a systematic literature review (SLR) is critical to identifying research gaps. Continuous Software Engineering, which includes continuous integration (CI), delivery (CDE), and deployment (CD), is essential for software development and deployment. In our SLR, we reviewed 66 papers, summarising tools, approaches, and challenges related to the security of CI/CD in the cloud. We addressed key aspects of cloud security and CI/CD and reported on tools such as Harbor, SonarQube, and GitHub Actions. Challenges such as image manipulation, unauthorised access, and weak authentication were highlighted. The review also uncovered research gaps in how tools and practices address these security issues in CI/CD pipelines, revealing a need for further study to improve cloud-based security solutions.</dcterms:abstract>
+        <dc:date>2024</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>A Systematic Literature Review on Continuous Integration and Deployment (CI/CD) for Secure Cloud Computing</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.scitepress.org/DigitalLibrary/Link.aspx?doi=10.5220/0013018500003825</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-06-08 16:43:32</dcterms:dateSubmitted>
+        <bib:pages>331-341</bib:pages>
+        <bib:presentedAt>
+            <bib:Conference>
+                <dc:title>20th International Conference on Web Information Systems and Technologies</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_70">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://onlinelibrary.wiley.com/doi/10.1002/smr.2720">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2047-7473,%202047-7481"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fluri</foaf:surname>
+                        <foaf:givenName>Jasmin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fornari</foaf:surname>
+                        <foaf:givenName>Fabrizio</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pustulka</foaf:surname>
+                        <foaf:givenName>Ela</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_72"/>
+        <dc:title>On the importance of CI/CD practices for database applications</dc:title>
+        <dcterms:abstract>Continuous integration and continuous delivery (CI/CD) automate software integration and reduce repetitive engineering work. While the use of CI/CD presents efficiency gains, in database application development, this potential has not been fully exploited. We explore the state of the art in this area, with a focus on current practices, common software tools, challenges, and preconditions that apply to database applications. The work is grounded in a synoptic literature review and contributes a novel generic CI/CD pipeline for database system application development. Our generic pipeline was tailored to three industrial development use cases in which we measured the benefits of integration and deployment automation. The measurements demonstrate clearly that introducing CI/CD had significant benefits. It reduced the number of failed deployments, improved their stability, and increased the number of deployments. Interviews with the developers before and after the implementation of the CI/CD show that the pipeline brings clear benefits to the development team (i.e., a reduced cognitive load). These findings put current database release practices driven by business expectations, such as fixed release windows, in question.</dcterms:abstract>
+        <dc:date>12/2024</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://onlinelibrary.wiley.com/doi/10.1002/smr.2720</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-06-08 16:43:49</dcterms:dateSubmitted>
+        <bib:pages>e2720</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2047-7473,%202047-7481">
+        <prism:volume>36</prism:volume>
+        <dc:title>Journal of Software: Evolution and Process</dc:title>
+        <dc:identifier>DOI 10.1002/smr.2720</dc:identifier>
+        <prism:number>12</prism:number>
+        <dcterms:alternative>J Software Evolu Process</dcterms:alternative>
+        <dc:identifier>ISSN 2047-7473, 2047-7481</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_72">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+</rdf:RDF>
